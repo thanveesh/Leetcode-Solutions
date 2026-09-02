@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -37,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
