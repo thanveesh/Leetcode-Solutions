@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -64,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
