@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
+| [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Polygons
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
