@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
