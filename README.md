@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Polygons
