@@ -1,6 +1,7 @@
 class Solution {
     public int minElement(int[] nums) {
         int a[]=new int[nums.length];
+        int min=nums[0];
         for(int i=0;i<nums.length;i++){
             int x=nums[i];
             int d=0;
@@ -10,7 +11,11 @@ class Solution {
             }
             a[i]=d;
         }
-        Arrays.sort(a);
-        return a[0];
+            for(int j:a){
+                if(min>j){
+                    min=j;
+                }
+            }
+        return min;
     }
 }
