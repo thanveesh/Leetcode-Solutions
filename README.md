@@ -127,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
