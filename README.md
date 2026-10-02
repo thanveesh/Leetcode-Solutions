@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
