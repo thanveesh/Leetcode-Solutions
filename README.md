@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0504-base-7](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
