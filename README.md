@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2843-count-symmetric-integers](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
