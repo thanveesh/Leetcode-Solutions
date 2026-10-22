@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bracket Sequences
 |  |
@@ -288,6 +291,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
