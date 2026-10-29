@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
