@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2651-calculate-delayed-arrival-time](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2769-find-the-maximum-achievable-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
