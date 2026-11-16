@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Graph Theory
