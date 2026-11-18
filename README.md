@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
