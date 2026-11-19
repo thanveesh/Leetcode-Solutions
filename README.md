@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0566-reshape-the-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
