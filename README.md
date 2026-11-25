@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bracket Sequences
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/thanveesh/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
