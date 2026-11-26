@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3516-find-closest-person) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/thanveesh/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/thanveesh/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3894-traffic-signal-color](https://github.com/thanveesh/Leetcode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Graph Theory
 |  |
